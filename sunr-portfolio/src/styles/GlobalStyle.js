@@ -13,6 +13,7 @@ const GlobalStyle = createGlobalStyle`
     --dark-purple: #220b4e;
     --light-purple: #b691ff;
     --offblack: #232b2b;
+    --hover: rgba(0, 0, 0, 0.1);
 }
 
 html {
