@@ -16,7 +16,7 @@ const NavBarStyle = styled.div`
     img {
         width: 50px;
         height: auto;
-        margin: 0 auto;
+        margin-left: 1rem;
     }
 
     ul {
